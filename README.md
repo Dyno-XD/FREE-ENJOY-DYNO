@@ -8,7 +8,7 @@ git clone https://github.com/Dyno-XD/FREE-ENJOY-DYNO
 
 cd FREE-ENJOY-DYNO
 
-python DYNO-FREE-VIP.py
+python Run.py
 
 DONT FORGET TO SEND ME FEEDBACKS IN TELEGRAM👇👇☑️
 
