@@ -4,6 +4,8 @@
 
  RUN COMMANDS:-
  
+ rm -rf FREE-ENJOY-DYNO
+
 git clone https://github.com/Dyno-XD/FREE-ENJOY-DYNO
 
 cd FREE-ENJOY-DYNO
